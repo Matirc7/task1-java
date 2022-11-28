@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(43, 48, 66);  
+    width: 100%;
+}
+form{
+    width: 80% !important;
+    background-color: rgb(38, 42, 53);
+    border-radius: 1rem;
+    flex-wrap: wrap;
+}
+#boton{
+    width: 8rem !important;
+    background-color: rgba(0, 128, 0, 0.582) !important;
+    border: 1px solid black;
+    color: white;
+}
+label{
+    font-weight: bolder;
+    color: white;
+}
+.titulo{
+    font-weight: bolder;
+    text-align: center; 
+    color: wheat;
+}
+th, td, tr{
+    color: white !important;
+}
+.contenedor{
+    width: 65%;
+    flex-wrap: wrap;
+    gap: 1rem;
+    text-align: center;
+    margin:.5rem;
+}
+pre{
+    color: white;
+    width: 100%;
+    margin: .5rem;
+}
+#app{
+    display: flex;
+}
+.contenedor-table{
+    text-align: start;
+    width: 98%;
+}
+.contenedor-div{
+    width: 100%;
+}
+#boton-delete{
+    background-color: red;
+    border-radius: .5rem;
+    color: white;
+}
+.swal2-popup{
+    background-color: wheat !important;
+    width: 15%;
+}
+.swal2-confirm{
+    background-color: green !important;
+    color: white !important;
+    border: 1px solid black !important;
+}
+.contenedor-table{
+    margin-top: 3rem;
+    width: 50%;
+}
+#contain{
+    width: 98%;
+}
+.edit-delete{
+    width: 5%;
+    color: white !important;
+}
+tr{
+    align-items: center;
+    align-self: center;
+    align-content: center;
+}
+.modal-content{
+
+}
